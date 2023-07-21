@@ -176,13 +176,6 @@ padding-top: 1cm;
     margin-top: -8.6cm;
 }
 
-
-.galeria{
-    width: 210px;
-    height: 260px;
-    justify-content: space-between;
-    margin: 1cm;
-}
 section.servicios {
     padding: 20px;
 }
@@ -201,3 +194,20 @@ section.servicios {
     max-height: 200px;
 }
 
+.gallery {
+    text-align: center;
+    padding: 30px;
+}
+
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.gallery img {
+    width: 85%;
+    max-height: 700px;
+    border: 1px solid #ddd;
+}
