@@ -138,43 +138,7 @@ padding-bottom: 0.5cm;
 padding-top: 1cm;
 }
 
-.foto-barrido{
-    margin: 1cm;
-    margin-top: 0cm;
-    margin-left: 20cm;
-    width: 200px;
-    height: 250px;
-}
 
-.barrido{
-    margin-left: 18cm;
-    margin-top: 2cm;
-}
-
-.picos{
-    margin: 1cm;
-    margin-left: 5cm;
-    margin-top: -8.8cm;
-}
-
-.foto-picos{
-    margin: 1cm;
-    margin-top: -0.4cm;
-    margin-left: 6.4cm;
-    width: 200px;
-    height: 250px;
-}
-
-.foto-fade{
-    width: 200px;
-    height: 250px;
-    margin-left: 34cm;
-}
-
-.fade{
-  margin-left: 34.3cm;
-    margin-top: -8.6cm;
-}
 
 section.servicios {
     padding: 20px;
@@ -193,8 +157,6 @@ section.servicios {
         max-height: 200px;
     }
 }
-
-
 
 .gallery {
     text-align: center;
@@ -240,3 +202,41 @@ ul {
 li {
     margin-bottom: 5px;
 }
+
+.foto-barrido {
+    margin: 1cm;
+    margin-top: 0cm;
+    margin-left: 20cm;
+    width: 200px;
+    height: 250px;
+  }
+  
+  .barrido {
+    margin-left: 18cm;
+    margin-top: 2cm;
+  }
+  
+  .picos {
+    margin: 1cm;
+    margin-left: 5cm;
+    margin-top: -8.8cm;
+  }
+  
+  .foto-picos {
+    margin: 1cm;
+    margin-top: -0.4cm;
+    margin-left: 6.4cm;
+    width: 200px;
+    height: 250px;
+  }
+  
+  .foto-fade {
+    width: 200px;
+    height: 250px;
+    margin-left: 34cm;
+  }
+  
+  .fade {
+    margin-left: 34.3cm;
+    margin-top: -8.6cm;
+  }
